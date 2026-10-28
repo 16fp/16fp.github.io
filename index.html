@@ -34,7 +34,7 @@
 <body>
 
 <div class="container">
-    <h1>Calificador 16PF (Agrupado por 5)</h1>
+    <h1>Calificador 16PF (Agrupado de 5)</h1>
     
     <div class="header-controls">
         <div>
@@ -343,7 +343,7 @@
         },
         F: {
             // Ejemplo hipotético de mujeres para Factor A (Revisar tu Cuadro 7.e)
-            A: [4, 6, 8, 9, 11, 12, 14, 16, 18, 20],
+            A: [5, 6, 8, 9, 11, 12, 13, 14, 15, 20],
             B: [2, 3, 4, 5, 6, 7, 8, 9, 10, 13],
             C: [12, 13, 14, 17, 19, 20, 22, 23, 25, 26],
             E: [4, 5, 6, 8, 10, 12, 14, 16, 17, 26],
